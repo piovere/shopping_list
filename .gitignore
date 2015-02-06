@@ -5,3 +5,4 @@ share/
 .Python
 pip-selfcheck.json
 Untitled0.ipynb
+.env
